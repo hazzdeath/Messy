@@ -12,7 +12,7 @@ public class Messy {
 
        /*Please comment out this line and
        this line as well with a hotkey that does multi-line commenting*/
-        List<String> numberWords = Arrays.asList("six", "seven", "eight", "nine");
+        List<String> numberWords = Arrays.asList("six", "seven", "eight", "nine" , "ten" ,"eleven");
         for (String numberWord: numberWords) {
             // Use the sout shortcut to write out numberWord;
             System.out.println(numberWord);
